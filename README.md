@@ -27,7 +27,7 @@ Air pollution is one of India's biggest public-health risks. On Poor or worse da
 
 ## 3. Methodology (12 stages)
 
-The full workflow is in `pipeline.py` and `AirQuality_Predictor.ipynb`, organised into the 12 stages
+The full workflow is in `AirQuality_Predictor.ipynb`, organised into the 12 stages
 
 | Stage | What was done |
 |---|---|
